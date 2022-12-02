@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-MainWindow.xaml",
+      "appliesTo": "MainWindow.xaml.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-TesisAnaReglas",
+      "appliesTo": "TesisAnaReglas.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
