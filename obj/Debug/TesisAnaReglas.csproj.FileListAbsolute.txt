@@ -1,0 +1,1527 @@
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window1.g.cs
+c:\users\ray\documents\visual studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window1.baml
+C:\Users\RAY\Documents\Visual Studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\RAY\Documents\Visual Studio 2015\Projects\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\Universidad\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+F:\Ultimo ana\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\Ana\Desktop\ray ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+F:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\R@Y\WORKSPACES\workspace-proyectos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\Ana\Documents\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseWindows.g.cs
+C:\Users\RAY\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseWindows.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseWindows.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseWindows.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RuleWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+C:\Users\Ana\Desktop\last\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+C:\Users\Ana\Desktop\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.g.cs
+D:\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.g.cs
+D:\Fotos\ultima version\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.baml
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserLog.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserLog.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\UserWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.baml
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\Ana\Desktop\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\16 -6\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.g.cs
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+C:\Users\RAY\Desktop\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.baml
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+E:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+E:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+E:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+E:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+E:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+E:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+E:\2-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\Window3.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+E:\2-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+K:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+K:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+K:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+K:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+K:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+K:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+K:\22-8\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+K:\22-8\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\1-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\1-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\1-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\1-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\1-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\1-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\1-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\1-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\8-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\8-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\8-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\8-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\8-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\8-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\8-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\8-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\17-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\17-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\17-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\17-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\17-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\17-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\17-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\24-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\3-9\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\TreeWindow.g.cs
+D:\3-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\TreeWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\TreeWindow.g.cs
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\TreeWindow.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+D:\24-9\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+C:\Users\Ana\Documents\9.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\Universidad\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.Cache
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojResolveAssemblyReference.cache
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.CodeAnalysisLog.xml
+D:\School\ANA MAILEN RODRIGUEZ\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.lastcodeanalysissucceeded
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojAssemblyReference.cache
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.cache
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.CoreCompileInputs.cache
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.CopyComplete
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+D:\Ingenería Informática\Prácticas 2do\gil\tesis Ana mailen Rodriguez\23.10 system\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.cache
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.CopyComplete
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Users\monica\Desktop\New folder\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.config
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe.manifest
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.application
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.exe
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\TesisAnaReglas.pdb
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\BindingEngine.dll
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\CalcBinding.dll
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.dll
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\bin\Debug\DynamicExpresso.Core.xml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\Simple Styles.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.g.cs
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.cache
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas_MarkupCompile.lref
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\App.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\MainWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\AddUser.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\ChangePassword.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\RoleBase\LogWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\cause.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRecWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\causeRule.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\PassWord.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\recomendation.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\variable.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseRuleWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\RecomendationWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableCauseRule.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariableRule2.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\VariablesWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\GeneralDataWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\UserControls\CauseWindow.baml
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.g.resources
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.Properties.Resources.resources
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.GenerateResource.cache
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe.manifest
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.application
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csproj.CopyComplete
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.exe
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.pdb
+C:\Monik\Escuela\Practicas\TesisAnaReglas\TesisAnaReglas\TesisAnaReglas\obj\Debug\TesisAnaReglas.csprojAssemblyReference.cache
