@@ -1,0 +1,36 @@
+﻿<Window x:Class="TesisAnaReglas.UserControls.VariableCauseRule"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TesisAnaReglas.UserControls"
+        mc:Ignorable="d"
+         WindowState="Maximized"
+        WindowStartupLocation="CenterScreen"
+        Title="Causas asociadas a las variables según su estado" Height="350" Width="600"  >
+    <Grid Margin="0,0,2,6">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="59*"/>
+            <RowDefinition Height="61*"/>
+            <RowDefinition Height="58*"/>
+            <RowDefinition Height="16*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="237*"/>
+            <ColumnDefinition Width="58*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="datag" IsReadOnly="True"  ItemsSource = "{Binding}" Margin="25,38,17,15"  AutoGenerateColumns="False" SelectionChanged="datag_SelectionChanged" Grid.RowSpan="5">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Variables"  Binding="{Binding variable}" IsReadOnly="True" />
+                <DataGridTextColumn Header="Causas"  Binding="{Binding cause}" IsReadOnly="True" />
+            </DataGrid.Columns>
+        </DataGrid >
+        <Button x:Name="button_add" Content="Añadir" HorizontalAlignment="Left" Height="26" Margin="23,20.684,0,0" VerticalAlignment="Top" Width="79" Click="button_add_Click" Grid.Column="1" Grid.Row="1"/>
+        <Button x:Name="button_mod" Content="Modificar" HorizontalAlignment="Left" Height="26" Margin="23,17,0,0" VerticalAlignment="Top" Width="79" Click="button_mod_Click" Grid.Column="1" Grid.Row="2"/>
+        <Button x:Name="button_delete" Content="Eliminar" HorizontalAlignment="Left" Height="26" Margin="23,21,0,0" VerticalAlignment="Top" Width="79" Click="button_delete_Click" Grid.Column="1" Grid.Row="3"/>
+        <Button x:Name="button_close" Content="Cerrar" HorizontalAlignment="Left" Height="26" Margin="23,17,0,0" VerticalAlignment="Top" Width="79" Click="button_close_Click" Grid.Column="1" Grid.Row="4"/>
+
+    </Grid>
+</Window>
